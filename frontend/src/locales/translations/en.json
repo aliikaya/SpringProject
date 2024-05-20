@@ -1,0 +1,16 @@
+{
+  "signUp": "Sign Up",
+  "username": "Username",
+  "email": "E-mail",
+  "password": "Password",
+  "passwordRepeat": "Password Repeat",
+  "passwordMismatch": "Password Mismatch",
+  "genericError": "Unexpected error occured. Please try again",
+  "userNotFoundError": "User not found",
+  "login": "Login"
+  
+}
+
+
+
+
